@@ -2,6 +2,11 @@
 
 ### Hi there 👋
 
+### Skills :wrench:
+
+https://img.shields.io/badge/-iOS-red
+
+
 <!--
 **EE-Yat-Ho/EE-Yat-Ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
