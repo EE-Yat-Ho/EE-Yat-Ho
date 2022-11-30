@@ -2,10 +2,22 @@
 
 ### Hi there 👋
 
+
+
 ### Skills :wrench:
 
-https://img.shields.io/badge/-iOS-red
 
+<img src="https://img.shields.io/badge/-iOS-red"/> <img src="https://img.shields.io/badge/-Swift-important"/>
+<br>
+<img src="https://img.shields.io/badge/-Flutter-blue"/> <img src="https://img.shields.io/badge/-Dart-7af"/>
+<br>
+<img src="https://img.shields.io/badge/-React Native-orange"/> <img src="https://img.shields.io/badge/-React-yellow"/> <img src="https://img.shields.io/badge/-Java Script-yellow"/>
+<br>
+<img src="https://img.shields.io/badge/-GithubAction-brightgreen"/> <img src="https://img.shields.io/badge/-Jenkins-green"/>
+<br>
+<img src="https://img.shields.io/badge/-ReacterKit-blueviolet"/> <img src="https://img.shields.io/badge/-MVVM-ff69b4"/>
+<br>
+<img src="https://img.shields.io/badge/-TDD-9cf"/> <img src="https://img.shields.io/badge/-Clean Code-lightgrey"/>
 
 <!--
 **EE-Yat-Ho/EE-Yat-Ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
