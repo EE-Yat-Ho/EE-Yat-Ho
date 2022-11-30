@@ -19,6 +19,13 @@
 <br>
 <img src="https://img.shields.io/badge/-TDD-9cf"/> <img src="https://img.shields.io/badge/-Clean Code-lightgrey"/>
 
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enough6157)](https://solved.ac/enough6157)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=enough6157)](https://solved.ac/enough6157)
+
 <!--
 **EE-Yat-Ho/EE-Yat-Ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
