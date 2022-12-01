@@ -15,6 +15,7 @@
 ![ReactNative](https://img.shields.io/badge/React_Native-fa8811.svg?&style=for-the-badge&logo=CreateReactApp&logoColor=white)
 ![React](https://img.shields.io/badge/React-09a39C.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 
 ![GitHubActions](https://img.shields.io/badge/Github_Action-2088FF.svg?&style=for-the-badge&logo=GitHubActions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
@@ -28,8 +29,14 @@
 
 ### Tools :wrench:
 
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white)
+
 
 ### Contacts :mailbox_with_mail:
+
 
 
 <!-- <img src="https://img.shields.io/badge/-iOS-red"/> <img src="https://img.shields.io/badge/-Swift-important"/>
@@ -48,6 +55,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enough6157)](https://solved.ac/enough6157)
 
+![EE-Yat-Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=EE-Yat-Ho&show_icons=true&theme=radical)
 
 <!--
 **EE-Yat-Ho/EE-Yat-Ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
