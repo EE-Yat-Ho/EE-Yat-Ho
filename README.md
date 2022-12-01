@@ -33,7 +33,9 @@
 
 
 ### Contacts :mailbox_with_mail:
-![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white&link=enough6157@gmail.com)
+![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&style=flat-square&logo=Tistory&logoColor=white&link=https://eeyatho.tistory.com/)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white&link=mailto://enough0827@gmail.com)
+![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=flat-square&logo=Naver&logoColor=white&link=mailto://enough6157@naver.com)
 
 
 <br>
