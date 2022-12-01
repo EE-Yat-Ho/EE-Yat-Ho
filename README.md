@@ -46,9 +46,9 @@
 
 ### :mailbox_with_mail:ㅤContactsㅤ:mailbox_with_mail:
 
-![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white&link=mailto://enough0827@gmail.com)
-![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=flat-square&logo=Naver&logoColor=white&link=mailto://enough6157@naver.com)
-![Tistory](https://img.shields.io/badge/Tistory-EE6000.svg?&style=flat-square&logo=Tistory&logoColor=white&link=https://eeyatho.tistory.com/)
+<a href="mailto:enough0827@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enough0827@gmail.com"/></a>
+<a href="mailto:enough6157@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A.svg?style=flat-square&logo=Naver&logoColor=white&link=mailto:enough6157@naver.com"/></a>
+<a href="https://eeyatho.tistory.com"><img src="https://img.shields.io/badge/Tistory-EE6000.svg?style=flat-square&logo=Tistory&logoColor=white&link=https://eeyatho.tistory.com"/></a>
 
 <br>
 <br>
