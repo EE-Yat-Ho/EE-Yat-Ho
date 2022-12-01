@@ -1,9 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=250&section=header&text=EEYatHo&fontSize=80)
+<div align="center">
 
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:5599ff,100:ff9955&height=110&section=header)
 
+### 👋ㅤHi thereㅤ👋
+🌱  I want to become a master of app development. :fire:
 
-### 💪 Tech Stack 💪
+<br>
+<br>
+
+### 💪ㅤTech Stackㅤ💪
 
 ![iOS](https://img.shields.io/badge/iOS-000000.svg?&style=flat-square&logo=Apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=flat-square&logo=Swift&logoColor=white)
@@ -22,55 +27,38 @@
 ![TDD](https://img.shields.io/badge/TDD-6428B4.svg?&style=flat-square&logo=TDD&logoColor=white)
 ![CleanCode](https://img.shields.io/badge/Clean_Code-FF6000.svg?&style=flat-square&logo=CleanCode&logoColor=white)
 
+<br>
+<br>
 
-
-### Tools :wrench:
+### :wrench:ㅤToolsㅤ:wrench:
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=flat-square&logo=Jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=white)
 
+![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=flat-square&logo=Xcode&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?&style=flat-square&logo=AndroidStudio&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/VSC-007ACC.svg?&style=flat-square&logo=VisualStudioCode&logoColor=white)
 
-### Contacts :mailbox_with_mail:
-![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&style=flat-square&logo=Tistory&logoColor=white&link=https://eeyatho.tistory.com/)
+<br>
+<br>
+
+### :mailbox_with_mail:ㅤContactsㅤ:mailbox_with_mail:
+
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white&link=mailto://enough0827@gmail.com)
 ![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=flat-square&logo=Naver&logoColor=white&link=mailto://enough6157@naver.com)
+![Tistory](https://img.shields.io/badge/Tistory-EE6000.svg?&style=flat-square&logo=Tistory&logoColor=white&link=https://eeyatho.tistory.com/)
 
-
 <br>
 <br>
-
-<!-- <img src="https://img.shields.io/badge/-iOS-red"/> <img src="https://img.shields.io/badge/-Swift-important"/>
-<br>
-<img src="https://img.shields.io/badge/-Flutter-blue"/> <img src="https://img.shields.io/badge/-Dart-7af"/>
-<br>
-<img src="https://img.shields.io/badge/-React Native-orange"/> <img src="https://img.shields.io/badge/-React-yellow"/> <img src="https://img.shields.io/badge/-Java Script-yellow"/>
-<br>
-<img src="https://img.shields.io/badge/-GithubAction-brightgreen"/> <img src="https://img.shields.io/badge/-Jenkins-green"/> -->
-<!-- <br>
-<img src="https://img.shields.io/badge/-ReacterKit-blueviolet"/> <img src="https://img.shields.io/badge/-MVVM-ff69b4"/>
-<br>
-<img src="https://img.shields.io/badge/-TDD-9cf"/> <img src="https://img.shields.io/badge/-Clean Code-lightgrey"/> -->
-
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enough6157)](https://solved.ac/enough6157)
 
 ![EE-Yat-Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=EE-Yat-Ho&show_icons=true&theme=radical)
 
-<!--
-**EE-Yat-Ho/EE-Yat-Ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff9955,100:5599ff&height=110&section=footer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+</div>
