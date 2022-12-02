@@ -53,11 +53,22 @@
 <br>
 <br>
 
+### 🎮ㅤMy Personal Appsㅤ🎮ㅤ
+
+<a href="https://apps.apple.com/kr/app/id1547183996"><img title="Nemo" src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/01/01/d0/0101d0a8-0070-cd58-b8ad-fbfc2f660a1b/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/40x0w.webp" /></a>
+<a href="https://apps.apple.com/kr/app/id6443969965"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/d2/d6/9c/d2d69c7c-63f7-3dac-a100-131b49e58482/AppIcon-1x_U007emarketing-0-10-0-85-220.png/40x0w.webp"/></a>
+
+<br>
+<br>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enough6157)](https://solved.ac/enough6157)
 
 ![EE-Yat-Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=EE-Yat-Ho&show_icons=true&theme=radical)
+[![EE-Yat-Ho's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EE-Yat-Ho&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/EE-Yat-Ho)
 
+  
+  
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff9955,100:5599ff&height=110&section=footer)
 
