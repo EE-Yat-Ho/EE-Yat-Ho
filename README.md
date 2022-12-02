@@ -12,6 +12,7 @@
 
 ![iOS](https://img.shields.io/badge/iOS-000000.svg?&style=flat-square&logo=Apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=flat-square&logo=Swift&logoColor=white)
+![RxSwift](https://img.shields.io/badge/RxSwift-B7178C.svg?&style=flat-square&logo=ReactiveX&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=flat-square&logo=Dart&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React_Native-fa8811.svg?&style=flat-square&logo=CreateReactApp&logoColor=white)
@@ -27,6 +28,10 @@
 ![TDD](https://img.shields.io/badge/TDD-6428B4.svg?&style=flat-square&logo=TDD&logoColor=white)
 ![CleanCode](https://img.shields.io/badge/Clean_Code-FF6000.svg?&style=flat-square&logo=CleanCode&logoColor=white)
 
+![XcodeGen](https://img.shields.io/badge/XcodeGen-147EFB.svg?&style=flat-square&logo=Xcode&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F.svg?&style=flat-square&logo=Realm&logoColor=white)
+
+  
 <br>
 <br>
 
@@ -38,6 +43,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
 ![Zeplin](https://img.shields.io/badge/Zeplin-FDEE21.svg?&style=flat-square&logo=OpenZeppelin&logoColor=white)
+![GoogleMeet](https://img.shields.io/badge/GoogleMeet-00897B.svg?&style=flat-square&logo=GoogleMeet&logoColor=white)
 
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=flat-square&logo=Xcode&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?&style=flat-square&logo=AndroidStudio&logoColor=white)
