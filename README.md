@@ -72,7 +72,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enough6157)](https://solved.ac/enough6157)
 
-![EE-Yat-Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=EE-Yat-Ho&show_icons=true&theme=radical)
+<!-- ![EE-Yat-Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=EE-Yat-Ho&show_icons=true&theme=radical) -->
 
 <!-- [![EE-Yat-Ho's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EE-Yat-Ho&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/EE-Yat-Ho) -->
 
