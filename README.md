@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5599ff,100:ff9955&height=110&section=header)
 
 ### 👋ㅤHi thereㅤ👋
-🌱  I want to become a master of app development. :fire:
+🌱 앱 깎는 장인이 되고 싶은 박영호 입니다. 방문해주셔서 감사합니다. :fire:
 
 <br>
 <br>
