@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5599ff,100:ff9955&height=110&section=header)
 
 ### 👋ㅤHi thereㅤ👋
-🌱 **앱 깎는 장인**이 되고 싶은 박영호 입니다. 방문해주셔서 감사합니다. 🙇‍♂️
+🌱ㅤ**앱 깎는 장인**을 꿈꾸는 박영호 입니다. 방문해주셔서 감사합니다. 🙇‍♂️
 
 <br>
 <br>
@@ -15,9 +15,9 @@
 ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C.svg?&style=flat-square&logo=ReactiveX&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=flat-square&logo=Dart&logoColor=white)
-<!-- ![ReactNative](https://img.shields.io/badge/React_Native-fa8811.svg?&style=flat-square&logo=CreateReactApp&logoColor=white)
+![ReactNative](https://img.shields.io/badge/React_Native-fa8811.svg?&style=flat-square&logo=CreateReactApp&logoColor=white)
 ![React](https://img.shields.io/badge/React-09a39C.svg?&style=flat-square&logo=React&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white) -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C%2B%2B&logoColor=white)
 
 ![GitHubActions](https://img.shields.io/badge/Github_Action-2088FF.svg?&style=flat-square&logo=GitHubActions&logoColor=white)
@@ -40,6 +40,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=flat-square&logo=Jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
 ![Zeplin](https://img.shields.io/badge/Zeplin-FDEE21.svg?&style=flat-square&logo=OpenZeppelin&logoColor=white)
