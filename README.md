@@ -15,9 +15,9 @@
 ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C.svg?&style=flat-square&logo=ReactiveX&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=flat-square&logo=Dart&logoColor=white)
-![ReactNative](https://img.shields.io/badge/React_Native-fa8811.svg?&style=flat-square&logo=CreateReactApp&logoColor=white)
+<!-- ![ReactNative](https://img.shields.io/badge/React_Native-fa8811.svg?&style=flat-square&logo=CreateReactApp&logoColor=white)
 ![React](https://img.shields.io/badge/React-09a39C.svg?&style=flat-square&logo=React&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white) -->
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C%2B%2B&logoColor=white)
 
 ![GitHubActions](https://img.shields.io/badge/Github_Action-2088FF.svg?&style=flat-square&logo=GitHubActions&logoColor=white)
