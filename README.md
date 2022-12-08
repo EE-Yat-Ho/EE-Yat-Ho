@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5599ff,100:ff9955&height=110&section=header)
 
 ### 👋ㅤHi thereㅤ👋
-🌱ㅤ**앱 깎는 장인**을 꿈꾸는 박영호 입니다. 방문해주셔서 감사합니다. 🙇‍♂️
+🌱ㅤ**앱 깎는 장인**을 꿈꾸는 박영호 입니다. 방문해주셔서 감사합니다.ㅤ🙇‍♂️
 
 <br>
 <br>
@@ -15,39 +15,44 @@
 ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C.svg?&style=flat-square&logo=ReactiveX&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=flat-square&logo=Dart&logoColor=white)
-![ReactNative](https://img.shields.io/badge/React_Native-fa8811.svg?&style=flat-square&logo=CreateReactApp&logoColor=white)
-![React](https://img.shields.io/badge/React-09a39C.svg?&style=flat-square&logo=React&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C%2B%2B&logoColor=white)
+<!-- ![ReactNative](https://img.shields.io/badge/React_Native-fa8811.svg?&style=flat-square&logo=CreateReactApp&logoColor=white)
+![React](https://img.shields.io/badge/React-09a39C.svg?&style=flat-square&logo=React&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white) -->
 
+<!--  CICD -->
 ![GitHubActions](https://img.shields.io/badge/Github_Action-2088FF.svg?&style=flat-square&logo=GitHubActions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat-square&logo=Jenkins&logoColor=white)
 
-![ReacterKit](https://img.shields.io/badge/Reacter_Kit-09a39C.svg?&style=flat-square&logo=ReacterKit&logoColor=white)
+<!--  디자인패턴 -->
+![ReacterKit](https://img.shields.io/badge/Reacter_Kit-09a39C.svg?&style=flat-square&logo=React&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-09c38C.svg?&style=flat-square&logo=MVVM&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-6428B4.svg?&style=flat-square&logo=TDD&logoColor=white)
-![CleanCode](https://img.shields.io/badge/Clean_Code-FF6000.svg?&style=flat-square&logo=CleanCode&logoColor=white)
 
-![XcodeGen](https://img.shields.io/badge/XcodeGen-147EFB.svg?&style=flat-square&logo=Xcode&logoColor=white)
+<!--  DB -->
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=white)
 ![Realm](https://img.shields.io/badge/Realm-39477F.svg?&style=flat-square&logo=Realm&logoColor=white)
+![CoreData](https://img.shields.io/badge/Core_Data-0D96F6.svg?&style=flat-square&logo=AppStore&logoColor=white)
 
+<!-- ![TDD](https://img.shields.io/badge/TDD-6428B4.svg?&style=flat-square&logo=TDD&logoColor=white) -->
+<!-- ![CleanCode](https://img.shields.io/badge/Clean_Code-FF6000.svg?&style=flat-square&logo=CleanCode&logoColor=white) -->
   
 <br>
 <br>
 
 ### :wrench:ㅤToolsㅤ:wrench:
-
+<!-- 협업 툴 -->
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=flat-square&logo=Jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
 ![Zeplin](https://img.shields.io/badge/Zeplin-FDEE21.svg?&style=flat-square&logo=OpenZeppelin&logoColor=white)
 ![GoogleMeet](https://img.shields.io/badge/GoogleMeet-00897B.svg?&style=flat-square&logo=GoogleMeet&logoColor=white)
-
+![XcodeGen](https://img.shields.io/badge/XcodeGen-147EFB.svg?&style=flat-square&logo=Xcode&logoColor=white)
+  
+<!-- IDE -->
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=flat-square&logo=Xcode&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?&style=flat-square&logo=AndroidStudio&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-30D080.svg?&style=flat-square&logo=AndroidStudio&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/VSC-007ACC.svg?&style=flat-square&logo=VisualStudioCode&logoColor=white)
 
 <br>
