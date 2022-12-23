@@ -26,6 +26,7 @@
 
 <!--  디자인패턴 -->
 ![ReacterKit](https://img.shields.io/badge/Reacter_Kit-09a39C.svg?&style=flat-square&logo=React&logoColor=white)
+![RIBs](https://img.shields.io/badge/RIBs-A435F0.svg?&style=flat-square&logo=Udacity&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-09c38C.svg?&style=flat-square&logo=MVVM&logoColor=white)
 
 <!--  DB -->
