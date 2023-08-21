@@ -40,7 +40,7 @@
 <br>
 <br>
 
-### 🔧ㅤToolsㅤ🔨
+### 🔨ㅤToolsㅤ🔧
 <!-- 협업 툴 -->
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=flat-square&logo=Jira&logoColor=white)
@@ -59,16 +59,7 @@
 <br>
 <br>
 
-### :mailbox_with_mail:ㅤContactsㅤ:mailbox_with_mail:
-
-<a href="mailto:enough0827@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enough0827@gmail.com"/></a>
-<a href="mailto:enough6157@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A.svg?style=flat-square&logo=Naver&logoColor=white&link=mailto:enough6157@naver.com"/></a>
-<a href="https://eeyatho.tistory.com"><img src="https://img.shields.io/badge/Tistory-EE6000.svg?style=flat-square&logo=Tistory&logoColor=white&link=https://eeyatho.tistory.com"/></a>
-
-<br>
-<br>
-
-### 📚ㅤSide Projectsㅤ📚ㅤ
+### 🎯ㅤSide Projectsㅤ🃏ㅤ
 <!-- My Personal Apps -->
   
 <a href="https://apps.apple.com/kr/app/id1547183996"><img title="Nemo" src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/01/01/d0/0101d0a8-0070-cd58-b8ad-fbfc2f660a1b/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/40x0w.webp" /></a>
@@ -76,6 +67,19 @@
 
 <br>
 <br>
+
+### 📚ㅤBlogㅤ📚ㅤ
+
+<a href="https://eeyatho.tistory.com"><img src="https://img.shields.io/badge/Tistory-EE6000.svg?style=flat-square&logo=Tistory&logoColor=white&link=https://eeyatho.tistory.com"/></a>
+
+<br>
+<br>
+
+### :mailbox_with_mail:ㅤContactsㅤ:mailbox_with_mail:
+
+<a href="mailto:enough0827@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enough0827@gmail.com"/></a>
+<a href="mailto:enough6157@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A.svg?style=flat-square&logo=Naver&logoColor=white&link=mailto:enough6157@naver.com"/></a>
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enough6157)](https://solved.ac/enough6157)
