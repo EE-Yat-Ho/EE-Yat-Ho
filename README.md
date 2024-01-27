@@ -28,10 +28,6 @@
 ![React](https://img.shields.io/badge/React-09a39C.svg?&style=flat-square&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white) -->
 
-<!--  CICD -->
-![GitHubActions](https://img.shields.io/badge/Github_Action-2088FF.svg?&style=flat-square&logo=GitHubActions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat-square&logo=Jenkins&logoColor=white)
-
 <!--  디자인패턴 -->
 ![CleanArchitecture](https://img.shields.io/badge/CleanArchitecture-ED1C24.svg?&style=flat-square&logo=clion&logoColor=white)
 ![TCA](https://img.shields.io/badge/TCA-A435F0.svg?&style=flat-square&logo=trakt&logoColor=white)
@@ -58,6 +54,10 @@
 <!-- 프로젝트 관리 툴 -->
 ![Tuist](https://img.shields.io/badge/Tuist-147EFB.svg?&style=flat-square&logo=Xcode&logoColor=white)
 ![XcodeGen](https://img.shields.io/badge/XcodeGen-2E51A2.svg?&style=flat-square&logo=Xcode&logoColor=white)
+
+<!--  CICD -->
+![GitHubActions](https://img.shields.io/badge/Github_Action-2088FF.svg?&style=flat-square&logo=GitHubActions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat-square&logo=Jenkins&logoColor=white)
 
 <!-- 협업 툴 -->
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
