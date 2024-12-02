@@ -19,7 +19,7 @@
 
 ![iOS](https://img.shields.io/badge/iOS-000000.svg?&style=flat-square&logo=Apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=flat-square&logo=Swift&logoColor=white)
-![RxSwift](https://img.shields.io/badge/RxSwift-B7178C.svg?&style=flat-square&logo=ReactiveX&logoColor=white)
+<!-- ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C.svg?&style=flat-square&logo=ReactiveX&logoColor=white) -->
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-E60012.svg?&style=flat-square&logo=Swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=flat-square&logo=Dart&logoColor=white)
